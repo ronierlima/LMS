@@ -7,3 +7,9 @@ permalink: /atividades/2
 ---
 
 # Atividade 02
+
+[Ver Resultado da Atividade](https://ronierlima.github.io/LMS-2020.1/Atividade-2/){:target="_blank" .btn .btn-green}
+
+## Descrição
+<iframe src="/assets/pdf/lms-atv_02.pdf" width="100%" height="500px">
+
