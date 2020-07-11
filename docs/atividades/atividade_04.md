@@ -2,7 +2,7 @@
 layout: default
 title: Atividade 04
 parent: Atividades
-nav_order: 1
+nav_order: 4
 permalink: /atividades/4
 ---
 
