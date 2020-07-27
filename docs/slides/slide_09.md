@@ -10,7 +10,7 @@ permalink: /slides/9
 {: .mt-8}
 
 <span class="d-flex flex-justify-around mt-8">
-[<< Slide Anterior](/slides/8){: .btn .text-green-000}
+[<< Slide Anterior]({{ '/slides/8' | absolute_url }}){: .btn .text-green-000}
 
 </span>
 
