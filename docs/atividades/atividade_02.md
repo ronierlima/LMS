@@ -4,6 +4,7 @@ title: Atividade 02
 parent: Atividades
 nav_order: 2
 permalink: /atividades/2
+nav_exclude: true
 ---
 
 # Atividade 02
