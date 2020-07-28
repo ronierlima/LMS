@@ -11,7 +11,6 @@ permalink: /slides/9
 
 <span class="d-flex flex-justify-around mt-8">
 [<< Slide Anterior]({{ '/slides/8' | absolute_url }}){: .btn .text-green-000}
-
 </span>
 
 <iframe src="{{ '/assets/slides/08-bootstrap3.pdf' | absolute_url }}" width="100%" height="500px">
