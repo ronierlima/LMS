@@ -10,8 +10,8 @@ permalink: /slides/1
 {: .mt-8}
 
 <span class="d-flex flex-justify-around mt-8">
-[<< Slide Anterior](/slides/0){: .btn .text-green-000}
-[Próximo Slide >>](/slides/2){: .btn }
+[<< Slide Anterior]({{ '/slides/0' | absolute_url }}){: .btn .text-green-000}
+[Próximo Slide >>]({{ '/slides/2' | absolute_url }}){: .btn }
 </span>
 
 <iframe src="{{ '/assets/slides/01-html5-1.pdf' | absolute_url }}" width="100%" height="500px">
